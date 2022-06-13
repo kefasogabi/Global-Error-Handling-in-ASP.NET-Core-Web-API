@@ -1,0 +1,12 @@
+D:\PRACTICE\GlobalErrorHandling-Start\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+D:\PRACTICE\GlobalErrorHandling-Start\LoggerService\bin\Debug\net5.0\LoggerService.dll
+D:\PRACTICE\GlobalErrorHandling-Start\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
+D:\PRACTICE\GlobalErrorHandling-Start\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+D:\PRACTICE\GlobalErrorHandling-Start\LoggerService\obj\Debug\net5.0\LoggerService.csproj.AssemblyReference.cache
+D:\PRACTICE\GlobalErrorHandling-Start\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRACTICE\GlobalErrorHandling-Start\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+D:\PRACTICE\GlobalErrorHandling-Start\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+D:\PRACTICE\GlobalErrorHandling-Start\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\PRACTICE\GlobalErrorHandling-Start\LoggerService\obj\Debug\net5.0\LoggerService.dll
+D:\PRACTICE\GlobalErrorHandling-Start\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
+D:\PRACTICE\GlobalErrorHandling-Start\LoggerService\obj\Debug\net5.0\LoggerService.pdb
